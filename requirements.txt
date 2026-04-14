@@ -1,0 +1,6 @@
+langchain==0.1.16
+langchain-community==0.0.32
+faiss-cpu
+elasticsearch
+sentence-transformers
+openai

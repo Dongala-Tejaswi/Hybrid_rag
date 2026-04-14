@@ -1,0 +1,11 @@
+id,name,role,department,experience,location,skills
+1,Rahul Sharma,Software Engineer,IT,3,Hyderabad,Java;Spring;MySQL
+2,Anjali Verma,Data Scientist,AI,2,Bangalore,Python;ML;Pandas
+3,Amit Kumar,DevOps Engineer,Cloud,4,Pune,Docker;Kubernetes;AWS
+4,Neha Reddy,Frontend Developer,UI,2,Hyderabad,React;JavaScript;CSS
+5,Vikram Singh,Backend Developer,IT,5,Delhi,Node.js;Express;MongoDB
+6,Pooja Mehta,AI Engineer,AI,3,Chennai,Deep Learning;NLP;PyTorch
+7,Kiran Patel,System Admin,IT,6,Mumbai,Linux;Networking;Security
+8,Sneha Iyer,QA Engineer,Testing,2,Bangalore,Selenium;Manual Testing
+9,Arjun Das,Full Stack Developer,IT,4,Kolkata,React;Node.js;MongoDB
+10,Meena Nair,Data Analyst,Analytics,3,Hyderabad,SQL;Excel;PowerBI
